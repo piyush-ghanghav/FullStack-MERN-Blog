@@ -13,5 +13,5 @@ A simple blog application built with the MERN stack (MongoDB, Express, React, No
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/piyush-ghanghav/Full-Stack-MERN-Blog.git
-   cd Full-Stack-MERN-Blog
+   git clone https://github.com/piyush-ghanghav/FullStack-MERN-Blog.git
+   cd FullStack-MERN-Blog
